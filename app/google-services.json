@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76234810589",
+    "project_id": "appsepatu",
+    "storage_bucket": "appsepatu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76234810589:android:877dbd61f98735ae79a734",
+        "android_client_info": {
+          "package_name": "com.example.appsepatu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76234810589-05f2193f51vqe02l9m1he44h3nij9dfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0OhAUj3dHIXpUAugcGcIz--kw_F3v6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76234810589-05f2193f51vqe02l9m1he44h3nij9dfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

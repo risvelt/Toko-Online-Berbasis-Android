@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pemesanan Sepatu</string>
+    <string name="deskripsi_jenis"> Sepatu adalah salah satu jenis alas kaki (footwear) yang biasanya terdiri atas bagian-bagian sol, hak, kap, tali, dan lidah.
+        Jenis-jenis sepatu wajib Anda ketahui. Sebab, pemilihan benda yang satu ini secara tidak langsung dapat mempengaruhi penampilan Anda.</string>
+    <string name="sneakers"><b>1. Sneakers</b>\n\nJenis-jenis sepatu yang pertama adalah sneakers. Kini, banyak sepatu sneakers yang digemari oleh banyak orang. Sebab, sepatu sneakers diklaim merupakan jenis sepatu yang paling nyaman untuk digunakan beraktivitas sehari-hari..</string>
+    <string name="wedges"><b>2. Wedges</b>\n\nJenis-jenis sepatu yang berikutnya adalah wedges. Wedges merupakan sepatu wanita yang juga banyak digunakan lantaran alas an kenyamanan. Meski jenis sepatu ini cenderung memiliki hak cukup tinggi, namun pemakainya tetap dapat merasa nyaman lantaran terdapat sol yang cukup tebal.</string>
+    <string name="flatshoes"><b>3. Flat Shoes</b>\n\nJenis-jenis sepatu wanita berikutnya adalah flat shoes. Jenis sepatu yang satu ini juga merupakan kegemaran sebagian besar wanita. Hal ini lantaran flat shoes merupakan jenis sepatu yang tidak memiliki sol tinggi sehingga dapat membuat pemakainya seolah merasa ringan meski memakai sepatu. Banyak flat shoes yang dibuat dengan berbagai ukuran dan warna cukup menggemaskan bagi wanita.</string>
+    <string name="slipon"><b>4. Slip On</b>\n\nJenis-jenis sepatu berikutnya adalah slip on. Jenis sepatu yang satu ini juga banyak digunakan oleh generasi muda untuk menghadiri berbagai acara non formal. Slip on memiliki ciri berbentuk lonjong ke depan dan biasanya digunakan tanpa mengenakan kaos kaki di dalamnya.</string>
+    <string name="derbyshoes"><b>5. Derby Shoes</b>\n\nJika Anda tengah mencari sepatu yang mewah untuk digunakan pada acara formal, jenis-jenis sepatu yang satu ini wajib menjadi salah satu pertimbangan Anda. Derby shoes merupakan jenis sepatu yang tak lekang oleh zaman lantaran desainnya yang elegan dan mewah.</string>
+    <string-array name="kategori_sepatu">
+        <item>Sneakers</item>
+        <item>Wedges</item>
+        <item>Flat Shoes</item>
+        <item>Slip On</item>
+        <item>Derby Shoes</item>
+    </string-array>
+    <string-array name="harga_perjumlah">
+        <item>1100000</item>
+        <item>400000</item>
+        <item>350000</item>
+        <item>550000</item>
+        <item>250000</item>
+    </string-array>
+</resources>
